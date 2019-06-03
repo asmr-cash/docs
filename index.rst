@@ -5,8 +5,8 @@ Welcome to block.network.dao!
    :width: 100 %
    :alt: formula.gif
    :align: center
-
-|
+   
+=============================
 
 The Block Network is a set of infrastructure for building a decentralized Internet.
 It is a distributed extensible virtual network,
