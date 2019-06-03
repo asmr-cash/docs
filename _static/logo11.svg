@@ -1,0 +1,16 @@
+<svg width="1424" height="437" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="439" width="1426" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="2" x="2" height="706" width="1402"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polyline transform="rotate(86.67259979248047 92.50909423828122,172.24545288085938) " stroke-linecap="round" id="svg_5" points="92.50909264272889,172.24545562933295 92.50909264272889,172.24545562933295 " stroke-width="0" stroke="#0c0002" fill="none"/>
+  <text stroke="url(#gradbox_stroke)" transform="matrix(3.8596500150073467,0,0,7.013619382243361,-658.2384032739467,-1093.6204121482913) " font-weight="bold" font-style="italic" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="35" id="svg_1" y="200.071909" x="186.570519" stroke-width="0" fill="#bf5f00">Block.NetWork.DAO</text>
+ </g>
+</svg>

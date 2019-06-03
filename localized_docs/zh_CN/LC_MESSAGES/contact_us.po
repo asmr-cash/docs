@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Block Network Project
+# This file is distributed under the same license as the block.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# HA LI<me@block.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: block.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-06 11:37+0800\n"
+"PO-Reblock-Date: 2019-04-11 14:15+0000\n"
+"Last-Translator: HA LI <me@block.network>, 2019\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contact_us.rst:4
+msgid "Contact us"
+msgstr "联系我们"
+
+#: ../../contact_us.rst:7
+msgid "|logo_earth|"
+msgstr "|logo_earth|"
+
+#: ../../contact_us.rst:10
+msgid "Official Website"
+msgstr "官方网站"
+
+#: ../../contact_us.rst:12
+msgid "https://block.network/"
+msgstr "https://block.network/"
+
+#: ../../contact_us.rst:13
+msgid "https://block.network/zh-cn (Simplified Chinese)"
+msgstr "https://block.network/zh-cn （简体中文）"
+
+#: ../../contact_us.rst:16
+msgid "|logo_github|"
+msgstr "|logo_github|"
+
+#: ../../contact_us.rst:19
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ../../contact_us.rst:20
+msgid "https://github.com/block100g"
+msgstr "https://github.com/block100g"
+
+#: ../../contact_us.rst:23
+msgid "|logo_twitter|"
+msgstr "|logo_twitter|"
+
+#: ../../contact_us.rst:26
+msgid "Twitter"
+msgstr "Twitter 推特"
+
+#: ../../contact_us.rst:28
+msgid "https://twitter.com/block100g"
+msgstr "https://twitter.com/block100g"
+
+#: ../../contact_us.rst:32
+msgid "|logo_telegram|"
+msgstr "|logo_telegram|"
+
+#: ../../contact_us.rst:37
+msgid "Telegram"
+msgstr "Telegram 电报"
+
+#: ../../contact_us.rst:41
+msgid "Group"
+msgstr "群组"
+
+#: ../../contact_us.rst:40
+msgid "https://t.me/block100g"
+msgstr "https://t.me/block100g"
+
+#: ../../contact_us.rst:41
+msgid "https://t.me/blockCN (Chinese Group)"
+msgstr "https://t.me/blockCN （中文组）"
+
+#: ../../contact_us.rst:45
+msgid "News Channel"
+msgstr "消息频道"
+
+#: ../../contact_us.rst:44
+msgid "https://t.me/blockNews"
+msgstr "https://t.me/blockNews"
+
+#: ../../contact_us.rst:47
+msgid "|logo_doc|"
+msgstr "|logo_doc|"
+
+#: ../../contact_us.rst:50
+msgid "Documents"
+msgstr "文档"
+
+#: ../../contact_us.rst:52
+msgid "https://block.io/"
+msgstr "https://block.io/"
+
+#: ../../contact_us.rst:53
+msgid "https://block.io/zh_CN/latest/ (Simplified Chinese)"
+msgstr "https://block.io/zh_CN/latest/ （简体中文）"

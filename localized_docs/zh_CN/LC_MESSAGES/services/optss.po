@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Block Network Project
+# This file is distributed under the same license as the block.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# HA LI<me@block.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: block.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-06 11:37+0800\n"
+"PO-Revision-Date: 2019-04-11 14:15+0000\n"
+"Last-Translator: HA LI <me@block.network>, 2019\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../services/optss.rst:4
+msgid "Optimized shadowsocks"
+msgstr "优化过的 shadowsocks"
+
+#: ../../services/optss.rst:6
+msgid "Optimized shadowsocks server on linux."
+msgstr "运行于 Linux 的优化过的 shadowsocks 服务端"
+
+#: ../../services/optss.rst:8
+msgid "Run directly after decompression, no need to install any dependencies."
+msgstr "解压后直接运行，不需安装任何依赖"
+
+#: ../../services/optss.rst:12
+msgid "Latest release"
+msgstr "最新版本"
+
+#: ../../services/optss.rst:14
+msgid "`ss-server-v1.2.2`_"
+msgstr "`ss-server-v1.2.2`_"
+
+#: ../../services/optss.rst:20
+msgid "Download to server"
+msgstr "下载到服务器"
+
+#: ../../services/optss.rst:31
+msgid "Edit the config file"
+msgstr "编辑配置文件"
+
+#: ../../services/optss.rst:46
+msgid "Make it running"
+msgstr "运行"

@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Block Network Project
+# This file is distributed under the same license as the block.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# HA LI<me@block.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: block.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-06 11:37+0800\n"
+"PO-Revision-Date: 2019-04-11 14:15+0000\n"
+"Last-Translator: HA LI <me@block.network>, 2019\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../index.rst:2
+msgid "Welcome to block.network.dao!"
+msgstr ""
+
+#: ../../index.rst:12
+msgid "**Official Website**"
+msgstr ""
+
+#: ../../index.rst:12
+msgid "`English`_"
+msgstr ""
+
+#: ../../index.rst:12
+msgid "`Chinese`_"
+msgstr ""
+
+#: ../../index.rst:14
+msgid "**Telegram Group**"
+msgstr ""
+
+#: ../../index.rst:14
+msgid "`English Group`_"
+msgstr ""
+
+#: ../../index.rst:14
+msgid "`Chinese Group`_"
+msgstr ""
+
+#: ../../index.rst:16
+msgid "**GitHub**"
+msgstr ""
+
+#: ../../index.rst:16
+msgid "`BlockNetworkProject`_"
+msgstr ""
+
+#: ../../index.rst:27
+msgid "$VNET Token Sale"
+msgstr ""
+
+#: ../../index.rst:35
+msgid "Available services"
+msgstr ""
+
+#: ../../index.rst:42
+msgid "Contracts on Ethereum"
+msgstr ""
