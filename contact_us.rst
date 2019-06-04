@@ -17,7 +17,7 @@ Official Website
 
 GitHub
 ------
-https://github.com/block100g
+https://github.com/blockdao
 
 
 |logo_twitter|
@@ -25,7 +25,7 @@ https://github.com/block100g
 Twitter
 -------
 
-https://twitter.com/block100g
+https://twitter.com/blockdao
 
 
 
@@ -37,7 +37,7 @@ Telegram
 --------
 
 Group
-   - https://t.me/block100g
+   - https://t.me/blockdao
    - https://t.me/blockCN (Chinese Group)
 
 News Channel

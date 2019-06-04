@@ -57,7 +57,7 @@ msgid "`BlockNetworkProject`_"
 msgstr ""
 
 #: ../../index.rst:27
-msgid "$VNET Token Sale"
+msgid "$BNET Token Sale"
 msgstr ""
 
 #: ../../index.rst:35

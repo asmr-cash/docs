@@ -25,8 +25,8 @@ msgid "AutoSSR: FREE ShadowsocksR"
 msgstr "AutoSSR：免费 ShadowsocksR 服务"
 
 #: ../../services/autossr.rst:6
-msgid "**Github:** https://github.com/block100g/AutoSSR"
-msgstr "**Github:** https://github.com/block100g/AutoSSR"
+msgid "**Github:** https://github.com/blockdao/AutoSSR"
+msgstr "**Github:** https://github.com/blockdao/AutoSSR"
 
 #: ../../services/autossr.rst:10
 msgid ""
@@ -56,8 +56,8 @@ msgid "``https://git.io/autossr_online``"
 msgstr "``https://git.io/autossr_online``"
 
 #: ../../services/autossr.rst:0
-msgid "``https://raw.githubusercontent.com/block100g/AutoSSR/master/online``"
-msgstr "``https://raw.githubusercontent.com/block100g/AutoSSR/master/online``"
+msgid "``https://raw.githubusercontent.com/blockdao/AutoSSR/master/online``"
+msgstr "``https://raw.githubusercontent.com/blockdao/AutoSSR/master/online``"
 
 #: ../../services/autossr.rst:31
 msgid "STABLE"
@@ -72,8 +72,8 @@ msgid "``https://git.io/autossr_stable``"
 msgstr "``https://git.io/autossr_stable``"
 
 #: ../../services/autossr.rst:0
-msgid "``https://raw.githubusercontent.com/block100g/AutoSSR/master/stable``"
-msgstr "``https://raw.githubusercontent.com/block100g/AutoSSR/master/stable``"
+msgid "``https://raw.githubusercontent.com/blockdao/AutoSSR/master/stable``"
+msgstr "``https://raw.githubusercontent.com/blockdao/AutoSSR/master/stable``"
 
 #: ../../services/autossr.rst:38
 msgid "RECENT"
@@ -88,8 +88,8 @@ msgid "``https://git.io/autossr_recent``"
 msgstr "``https://git.io/autossr_recent``"
 
 #: ../../services/autossr.rst:0
-msgid "``https://raw.githubusercontent.com/block100g/AutoSSR/master/recent``"
-msgstr "``https://raw.githubusercontent.com/block100g/AutoSSR/master/recent``"
+msgid "``https://raw.githubusercontent.com/blockdao/AutoSSR/master/recent``"
+msgstr "``https://raw.githubusercontent.com/blockdao/AutoSSR/master/recent``"
 
 #: ../../services/autossr.rst:41
 msgid "Supported clients"

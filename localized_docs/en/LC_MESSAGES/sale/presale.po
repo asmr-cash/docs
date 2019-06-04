@@ -21,12 +21,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../sale/presale.rst:2
-msgid "$VNET Pre-Sale/Early-Bird"
+msgid "$BNET Pre-Sale/Early-Bird"
 msgstr ""
 
 #: ../../sale/presale.rst:4
 msgid ""
-"There is **18.6 billion VNET** would released by token sale, accounting for "
+"There is **18.6 billion BNET** would released by token sale, accounting for "
 "**53.14%** of the total supply. With our sincerity, we have designed "
 "contracts for sales on Ethereum blockchain platform, to make it clear and "
 "free to check anytime."
@@ -39,7 +39,7 @@ msgstr ""
 #: ../../sale/presale.rst:13
 msgid ""
 "16.13% of the token sale would be released in this phase, namely 3 billion "
-"VNET;"
+"BNET;"
 msgstr ""
 
 #: ../../sale/presale.rst:14
@@ -48,9 +48,9 @@ msgstr ""
 
 #: ../../sale/presale.rst:15
 msgid ""
-"The starting sales price of VNET is about 0.0013 USD, and the price will "
+"The starting sales price of BNET is about 0.0013 USD, and the price will "
 "increase linearly [#increase]_ with the sales progress. When the sales are "
-"closed at the end of this phase, price of VNET would be 0.0035 USD;"
+"closed at the end of this phase, price of BNET would be 0.0035 USD;"
 msgstr ""
 
 #: ../../sale/presale.rst:18
@@ -76,14 +76,14 @@ msgstr ""
 
 #: ../../sale/presale.rst:30
 msgid ""
-"**Special interest:** We have reserved 175 million VNET as a consumption "
+"**Special interest:** We have reserved 175 million BNET as a consumption "
 "pool in the distribution plan. For special user contribution awards and "
 "sales promotions, the white list of individual or organizational users will "
 "be charged to the consumer pool contract account until used up."
 msgstr ""
 
 #: ../../sale/presale.rst:36
-msgid "ETH/VNET exchange ratio calculation formula:"
+msgid "ETH/BNET exchange ratio calculation formula:"
 msgstr ""
 
 #: ../../sale/presale.rst:45
@@ -104,19 +104,19 @@ msgid ""
 msgstr ""
 
 #: ../../sale/presale.rst:57
-msgid "**VNETPriceStart**: sales start price"
+msgid "**BNETPriceStart**: sales start price"
 msgstr ""
 
 #: ../../sale/presale.rst:58
-msgid "**VNETPriceTarget**: end of sale price"
+msgid "**BNETPriceTarget**: end of sale price"
 msgstr ""
 
 #: ../../sale/presale.rst:59
-msgid "**VNETSold**: total amount of VNET sold"
+msgid "**BNETSold**: total amount of BNET sold"
 msgstr ""
 
 #: ../../sale/presale.rst:60
-msgid "**VNETSupply**: the total amount of VNET in this phase"
+msgid "**BNETSupply**: the total amount of BNET in this phase"
 msgstr ""
 
 #: ../../sale/presale.rst:65
@@ -131,16 +131,16 @@ msgstr ""
 
 #: ../../sale/presale.rst:79
 msgid ""
-"That is, the exchange ratio is *1 ETH = 62,500 VNET* in this transaction. "
+"That is, the exchange ratio is *1 ETH = 62,500 BNET* in this transaction. "
 "Since this transaction is 20 ETH total, you can get *62,500 x 20 = 1,250,000"
-" VNET* [#example]_."
+" BNET* [#example]_."
 msgstr ""
 
 #: ../../sale/presale.rst:82
 msgid ""
 "If 20 ETH is split into multiple transfers to the contract, not one "
 "transaction, each transfer will trigger a recalculation and the resulting "
-"VNET will be less than the *1,250,000 VNET* in the above example."
+"BNET will be less than the *1,250,000 BNET* in the above example."
 msgstr ""
 
 #: ../../sale/presale.rst:89

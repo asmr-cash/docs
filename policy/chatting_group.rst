@@ -33,7 +33,7 @@ English:
 
    *Gift for you: 100-200 Block*
    💵 💵 💵
-   1 Block = 100GB client traffic, per Block is worth about $8 in mature IDCs and cloud service providers, such as AWS and GCP.
+   1 Block = daoB client traffic, per Block is worth about $8 in mature IDCs and cloud service providers, such as AWS and GCP.
    👉 [Click here to get](https://block.io/en/latest/token/airdrop_via_contract.html)
 
    More info:
@@ -51,7 +51,7 @@ Simplified Chinese:
 
    *入群礼 100-200 Block*
    💵 💵 💵
-   1 Block = 100GB 客户端流量，在主流机房和云服务商（如：亚马逊云 AWS、谷歌云 GCP 等），100GB 的加速流量资源价值 $8 美金左右。
+   1 Block = daoB 客户端流量，在主流机房和云服务商（如：亚马逊云 AWS、谷歌云 GCP 等），daoB 的加速流量资源价值 $8 美金左右。
    👉 [点击这里领取](https://block.io/zh_CN/latest/token/airdrop_via_contract.html)
 
    更多信息：

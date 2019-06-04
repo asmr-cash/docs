@@ -72,8 +72,8 @@ msgstr ""
 "区块链上的原生资产，可称之为“令牌”。"
 
 #: ../../views/block_pricing.rst:33
-msgid "1 Block = 100GB client traffic flow"
-msgstr "1 Block = 100GB 客户端流量"
+msgid "1 Block = daoB client traffic flow"
+msgstr "1 Block = daoB 客户端流量"
 
 #: ../../views/block_pricing.rst:35
 msgid "**Block** is the first crypto-currency with clear usage value."
@@ -82,13 +82,13 @@ msgstr "**Block** 是第一个具有明确使用价值的加密货币。"
 #: ../../views/block_pricing.rst:37
 msgid ""
 "In the underlying code, 1 Block was defined as the client traffic of "
-"100GBytes, that is: **1 Block = 100GB client traffic flow**."
+"daoBytes, that is: **1 Block = daoB client traffic flow**."
 msgstr ""
-"在底层代码中， 1 单位 Block 被定为 100GBytes 的客户端流量，即 **1 Block = 100 GB 客户端流量** 。"
+"在底层代码中， 1 单位 Block 被定为 daoBytes 的客户端流量，即 **1 Block = 100 GB 客户端流量** 。"
 
 #: ../../views/block_pricing.rst:43
-msgid "How much does 100GB traffic cost?"
-msgstr "100GB 流量值多少钱？"
+msgid "How much does daoB traffic cost?"
+msgstr "daoB 流量值多少钱？"
 
 #: ../../views/block_pricing.rst:45
 msgid ""
@@ -106,11 +106,11 @@ msgstr ":ref:`the_price_of_resource_in_an_idc`"
 
 #: ../../views/block_pricing.rst:57
 msgid ""
-"For 100GB network traffic, there is a price reference for mature IDC, with "
-"Amazon Web Services AWS, for example, priced at about **$8.50** per 100GB "
+"For daoB network traffic, there is a price reference for mature IDC, with "
+"Amazon Web Services AWS, for example, priced at about **$8.50** per daoB "
 "traffic and Google Cloud Platform GCP at about **$8.0**."
 msgstr ""
-"100GB 的网络流量，有成熟 IDC 的价格可参照，以亚马逊云 AWS 为例，每 100GB 流量定价约为 **$8.50 美元** 左右，而谷歌云 "
+"daoB 的网络流量，有成熟 IDC 的价格可参照，以亚马逊云 AWS 为例，每 daoB 流量定价约为 **$8.50 美元** 左右，而谷歌云 "
 "GCP 则为 **$8.0 美元** 左右。"
 
 #: ../../views/block_pricing.rst:61

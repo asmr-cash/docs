@@ -56,22 +56,22 @@ msgid "Service Value & Usage Value ANCHORING"
 msgstr "服务价值与使用价值的锚定"
 
 #: ../../token/sale.rst:26
-msgid "**1 Block = 100GB** client traffic, solid value base."
-msgstr "**1 Block = 100GB** 客户端流量，坚实的价值基础。"
+msgid "**1 Block = daoB** client traffic, solid value base."
+msgstr "**1 Block = daoB** 客户端流量，坚实的价值基础。"
 
 #: ../../token/sale.rst:27
 msgid ""
-"100GB is worth about **$8.00 - 8.50 USD** in mature IDCs and cloud service "
+"daoB is worth about **$8.00 - 8.50 USD** in mature IDCs and cloud service "
 "platforms, such as `Amazon AWS`_ and `Google GCP`_."
 msgstr ""
-"在主流 IDC 服务商和云服务平台，100GB 价值约 **$8.00 - 8.50 美元** ，比如 `亚马逊 AWS`_ 和 `谷歌 GCP`_ 。"
+"在主流 IDC 服务商和云服务平台，daoB 价值约 **$8.00 - 8.50 美元** ，比如 `亚马逊 AWS`_ 和 `谷歌 GCP`_ 。"
 
 #: ../../token/sale.rst:30
 msgid ""
-"You can spend ``1 Block`` to exchange ``100GB traffic`` to use the unblocked"
+"You can spend ``1 Block`` to exchange ``daoB traffic`` to use the unblocked"
 " accessible Internet, or earn Blocks by selling/sharing your idle bandwidth."
 msgstr ""
-"您可以花费 ``1 Block`` 享受 ``100GB 流量`` 的国际互联网服务，也可以通过销售或分享您的闲置带宽赚取 Blocks 。"
+"您可以花费 ``1 Block`` 享受 ``daoB 流量`` 的国际互联网服务，也可以通过销售或分享您的闲置带宽赚取 Blocks 。"
 
 #: ../../token/sale.rst:39
 msgid "About 7.889 billion Blocks for Sale"

@@ -47,14 +47,11 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Available services
 
-   reports/vnvpn_alpha
    services/autossr
    guide/shadowrocket
    guide/ssrr
    guide/shadowsocksr_win
    guide/shadowsocksr_mac
-   services/optss
-
 
 .. _guide:
 
@@ -63,8 +60,6 @@ more open, more equal, more stable, more efficient, safer and freer.
    :caption: Guides
 
    guide/block_sale
-   guide/register_block_sale_whitelist
-   guide/read_block_sale_contract
    guide/imtoken
    guide/metamask
    guide/shadowrocket

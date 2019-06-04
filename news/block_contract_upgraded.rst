@@ -3,12 +3,12 @@
 Block Main Contract Upgraded
 ============================
 
-The old ``VNET`` contract ``0x3F1...2F5`` was deprecated,
+The old ``BNET`` contract ``0x3F1...2F5`` was deprecated,
 snapshot at ``2019-04-15 00:00:00 UTC``,
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
-- ENS Domain is **block100g.eth**
+- ENS Domain is **blockdao.eth**
 - Contract address is **0x82070415FEe803f94Ce5617Be1878503e58F0a6a**
 - Deployed at `Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...`_
 - Block height `7635415`_
@@ -23,8 +23,8 @@ View on Etherscan.io:
 
 .. _Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...: https://etherscan.io/tx/0x9f173f8fc13a8efef7cb25b160c09958be03587b9b1af910bf8a9b3a48d68dc9
 .. _7635415: https://etherscan.io/tx/0x9f173f8fc13a8efef7cb25b160c09958be03587b9b1af910bf8a9b3a48d68dc9
-.. _GNU General Public License v3.0: https://github.com/block100g/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/block100g/contracts/blob/master/Block.sol
+.. _GNU General Public License v3.0: https://github.com/blockdao/contracts/blob/master/LICENSE
+.. _View contract code on github repository: https://github.com/blockdao/contracts/blob/master/Block.sol
 .. _Block Tracker: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a
 .. _Read contract on Etherscan.io: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#readContract
 .. _Write contract on Etherscan.io: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#writeContract
@@ -57,7 +57,7 @@ Displayed in various wallet software such as `MetaMask`_,
 Usage Value ANCHORING had not been changed
 ------------------------------------------
 
-``1 Block`` corresponds to the use value of ``100G client traffic``
+``1 Block`` corresponds to the use value of ``dao client traffic``
 in the Block.Network ecosystem.
 
 
@@ -84,8 +84,6 @@ and you can enjoy a **buy one and get one more free privilege**
 during the :ref:`block_sale`.
 The contract will automatically save the referral relationship chain
 and **settle the rewards in real time**,
-
-:ref:`guide_for_block_sale_whitelist`
 
 Whitelist qualification transfer is supported
 ---------------------------------------------

@@ -29,17 +29,17 @@ which uses Proof of Traffic consensus mechanism.
 It is the native asset on the vnCHAIN.
 
 
-1 Block = 100GB client traffic flow
+1 Block = daoB client traffic flow
 ___________________________________
 
 **Block** is the first crypto-currency with clear usage value.
 
-In the underlying code, 1 Block was defined as the client traffic of 100GBytes,
-that is: **1 Block = 100GB client traffic flow**.
+In the underlying code, 1 Block was defined as the client traffic of daoBytes,
+that is: **1 Block = daoB client traffic flow**.
 
 
 
-How much does 100GB traffic cost?
+How much does daoB traffic cost?
 ---------------------------------
 
 Including the traffic,
@@ -52,8 +52,8 @@ which are clearly priced.
 The price of resource in an IDC
 _______________________________
 
-For 100GB network traffic, there is a price reference for mature IDC,
-with Amazon Web Services AWS, for example, priced at about **$8.50** per 100GB traffic
+For daoB network traffic, there is a price reference for mature IDC,
+with Amazon Web Services AWS, for example, priced at about **$8.50** per daoB traffic
 and Google Cloud Platform GCP at about **$8.0**.
 
 Accelerating traffic is more expensive, while ordinary traffic is cheaper.

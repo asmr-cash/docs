@@ -33,8 +33,8 @@ msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
 msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
 
 #: ../../contracts/block.rst:10
-msgid "ENS Domain is **block100g.eth**"
-msgstr "ENS 域名 **block100g.eth**"
+msgid "ENS Domain is **blockdao.eth**"
+msgstr "ENS 域名 **blockdao.eth**"
 
 #: ../../contracts/block.rst:11
 msgid "Contract address is **0x82070415FEe803f94Ce5617Be1878503e58F0a6a**"
@@ -97,8 +97,8 @@ msgid "Full Name"
 msgstr "全名"
 
 #: ../../contracts/block.rst:71
-msgid "Block.Network 100G Token"
-msgstr "Block.Network 100G Token"
+msgid "Block.Network dao Token"
+msgstr "Block.Network dao Token"
 
 #: ../../contracts/block.rst:74
 msgid "Symbol"

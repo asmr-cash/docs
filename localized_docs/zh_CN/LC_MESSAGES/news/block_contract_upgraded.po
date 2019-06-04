@@ -26,11 +26,11 @@ msgstr "Block 主合约升级完毕"
 
 #: ../../news/block_contract_upgraded.rst:6
 msgid ""
-"The old ``VNET`` contract ``0x3F1...2F5`` was deprecated, snapshot at "
+"The old ``BNET`` contract ``0x3F1...2F5`` was deprecated, snapshot at "
 "``2019-04-15 00:00:00 UTC``, the historical balance data was migrated by "
 ":ref:`block_migration`."
 msgstr ""
-"``VNET`` 旧合约 ``0x3F1...2F5`` 已经弃用，快照于 ``2019-04-15 00:00:00 UTC "
+"``BNET`` 旧合约 ``0x3F1...2F5`` 已经弃用，快照于 ``2019-04-15 00:00:00 UTC "
 "标准时间``，历史账户数据经  :ref:`block_migration` 完成迁移。"
 
 #: ../../news/block_contract_upgraded.rst:10
@@ -38,8 +38,8 @@ msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
 msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
 
 #: ../../news/block_contract_upgraded.rst:12
-msgid "ENS Domain is **block100g.eth**"
-msgstr "ENS 域名 **block100g.eth**"
+msgid "ENS Domain is **blockdao.eth**"
+msgstr "ENS 域名 **blockdao.eth**"
 
 #: ../../news/block_contract_upgraded.rst:13
 msgid "Contract address is **0x82070415FEe803f94Ce5617Be1878503e58F0a6a**"
@@ -95,9 +95,9 @@ msgstr "使用价值锚定保持不变"
 
 #: ../../news/block_contract_upgraded.rst:61
 msgid ""
-"``1 Block`` corresponds to the use value of ``100G client traffic`` in the "
+"``1 Block`` corresponds to the use value of ``dao client traffic`` in the "
 "Block.Network ecosystem."
-msgstr "在区块网络的生态体系中 ``1 Block`` 与 ``100G 客户端流量`` 关联。"
+msgstr "在区块网络的生态体系中 ``1 Block`` 与 ``dao 客户端流量`` 关联。"
 
 #: ../../news/block_contract_upgraded.rst:66
 msgid "New contract was fully optimized"

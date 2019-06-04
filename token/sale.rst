@@ -12,22 +12,20 @@ and can be viewed on the `github repository`_ and `etherscan.io`_.
 Related links:
 
 - :ref:`block_pricing`
-- :ref:`guide_for_read_block_sale_contract`
 
-
-.. _GNU General Public License v3.0: https://github.com/block100g/contracts/blob/master/LICENSE
-.. _github repository: https://github.com/block100g/contracts/blob/master/BlockPublicSale.sol
+.. _GNU General Public License v3.0: https://github.com/blockdao/contracts/blob/master/LICENSE
+.. _github repository: https://github.com/blockdao/contracts/blob/master/BlockPublicSale.sol
 .. _etherscan.io: https://etherscan.io/address/0xac873993e43a5af7b39ab4a5a50ce1fbdb7191d3#readContract
 
 
 Service Value & Usage Value ANCHORING
 -------------------------------------
 
-- **1 Block = 100GB** client traffic, solid value base.
-- 100GB is worth about **$8.00 - 8.50 USD**
+- **1 Block = daoB** client traffic, solid value base.
+- daoB is worth about **$8.00 - 8.50 USD**
   in mature IDCs and cloud service platforms,
   such as `Amazon AWS`_ and `Google GCP`_.
-- You can spend ``1 Block`` to exchange ``100GB traffic``
+- You can spend ``1 Block`` to exchange ``daoB traffic``
   to use the unblocked accessible Internet,
   or earn Blocks by selling/sharing your idle bandwidth.
 
@@ -60,9 +58,6 @@ we will adjust the **Audit ETH price** dynamically,
 according to the latest price in the trading market,
 in order to ensure that Block is relatively stable against legal tender
 at different times during the whole sale phase.
-
-And you can get the latest Audit ETH price by :ref:`guide_for_read_block_sale_contract`
-
 
 
 .. _incremental_block_sales_price:
@@ -156,8 +151,6 @@ Anyone who participate in the :ref:`block_sale`
 by using a whitelisted ETH wallet address
 would enjoy a gift of **BUY ONE AND GET ONE MORE FREE**.
 
-See: :ref:`guide_for_block_sale_whitelist`
-
 
 50% - 100% of sales revenue will be used as rewards
 ---------------------------------------------------
@@ -226,7 +219,6 @@ Send ETH, and receive Blocks
 
 Matters needing attention and operation instruction:
 
-- :ref:`guide_for_block_sale_whitelist`
 - :ref:`guide_for_block_sale`
 - :ref:`guide_for_gas`
 - ...

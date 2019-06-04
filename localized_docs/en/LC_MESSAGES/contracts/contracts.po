@@ -26,11 +26,11 @@ msgid "Contracts on Ethereum"
 msgstr ""
 
 #: ../../contracts/contracts.rst:5
-msgid "VNET Token"
+msgid "BNET Token"
 msgstr ""
 
 #: ../../contracts/contracts.rst:7
-msgid "The main Contract of VNET Token:"
+msgid "The main Contract of BNET Token:"
 msgstr ""
 
 #: ../../contracts/contracts.rst:9
@@ -50,7 +50,7 @@ msgid "Team Fund"
 msgstr ""
 
 #: ../../contracts/contracts.rst:21
-msgid "The Contract which held 12% of the total VNET Tokens for the team:"
+msgid "The Contract which held 12% of the total BNET Tokens for the team:"
 msgstr ""
 
 #: ../../contracts/contracts.rst:23
@@ -67,7 +67,7 @@ msgstr ""
 
 #: ../../contracts/contracts.rst:34
 msgid ""
-"The Contract which held 18.89% of the total VNET Tokens, would be used for:"
+"The Contract which held 18.89% of the total BNET Tokens, would be used for:"
 msgstr ""
 
 #: ../../contracts/contracts.rst:36
@@ -96,7 +96,7 @@ msgstr ""
 
 #: ../../contracts/contracts.rst:50
 msgid ""
-"Just call the contract (send 0 ETH here), and get 100-200 VNET Tokens for "
+"Just call the contract (send 0 ETH here), and get 100-200 BNET Tokens for "
 "free."
 msgstr ""
 

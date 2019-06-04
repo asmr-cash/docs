@@ -49,8 +49,8 @@ msgid "GitHub"
 msgstr "GitHub"
 
 #: ../../contact_us.rst:20
-msgid "https://github.com/block100g"
-msgstr "https://github.com/block100g"
+msgid "https://github.com/blockdao"
+msgstr "https://github.com/blockdao"
 
 #: ../../contact_us.rst:23
 msgid "|logo_twitter|"
@@ -61,8 +61,8 @@ msgid "Twitter"
 msgstr "Twitter 推特"
 
 #: ../../contact_us.rst:28
-msgid "https://twitter.com/block100g"
-msgstr "https://twitter.com/block100g"
+msgid "https://twitter.com/blockdao"
+msgstr "https://twitter.com/blockdao"
 
 #: ../../contact_us.rst:32
 msgid "|logo_telegram|"
@@ -77,8 +77,8 @@ msgid "Group"
 msgstr "群组"
 
 #: ../../contact_us.rst:40
-msgid "https://t.me/block100g"
-msgstr "https://t.me/block100g"
+msgid "https://t.me/blockdao"
+msgstr "https://t.me/blockdao"
 
 #: ../../contact_us.rst:41
 msgid "https://t.me/blockCN (Chinese Group)"
