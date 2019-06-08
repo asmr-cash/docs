@@ -76,11 +76,7 @@ GCP Google Cloud Platform:
 Block price during the Public-Sale: $0.001 - $0.601
 ---------------------------------------------------
 
-:ref:`incremental_block_sales_price`
-
 Starting at **1 Block = $0.001**, until the price reaches **$0.601**.
-
-More details: :ref:`block_sale`
 
 
 
@@ -110,12 +106,9 @@ This is a large ecosystem built by all participants.
 The more service nodes and more users, the stronger the network will be.
 
 Incremental sales prices will promote the market price of the entire system,
-during the :ref:`block_sale`,
 about **595.13 million USD** (50-100% of all the sales revenue)
 will be owned by the community promoters.
 
 See:
-
-- :ref:`block_sale`
 
 Join us, join the revolution.

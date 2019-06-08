@@ -38,7 +38,6 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Block
 
-   token/sale
    token/airdrop_via_contract
 
 .. _available-services:
@@ -59,7 +58,6 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Guides
 
-   guide/block_sale
    guide/imtoken
    guide/metamask
    guide/shadowrocket
@@ -85,7 +83,6 @@ more open, more equal, more stable, more efficient, safer and freer.
    :caption: Contracts on Ethereum
 
    contracts/block
-   contracts/block_sale
 
 ------
 

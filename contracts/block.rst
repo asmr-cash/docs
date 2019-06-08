@@ -98,7 +98,6 @@ _________________________________________
        }
    }
 
-:ref:`block_sale` whitelist registration trigger conditions:
 
 - ``_allowWhitelistRegistration`` is ``true``, when registration is allowed.
 - ``value`` = ``_whitelistRegistrationValue``, that is 1,001 Blocks.
@@ -211,7 +210,6 @@ _________________________________________________________________
        emit BlockSaleWhitelistRegistrationDisabled();
    }
 
-Check whether the :ref:`block_sale` whitelist registration is in process
    Call function ``allowWhitelistRegistration()``,
    if it returns ``true``, registration is allowed.
 

@@ -81,7 +81,6 @@ The Ethereum **miner’s fee is greatly reduced** for Block transfer,
 By sending 1,001 Blocks to a whitelisted address,
 your ETH wallet address will be **automatically registered**,
 and you can enjoy a **buy one and get one more free privilege**
-during the :ref:`block_sale`.
 The contract will automatically save the referral relationship chain
 and **settle the rewards in real time**,
 

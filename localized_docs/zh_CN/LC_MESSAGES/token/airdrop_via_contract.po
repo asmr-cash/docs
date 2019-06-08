@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../token/airdrop_via_contract.rst:4
 msgid "Block Airdrop via contract (Closed)"
-msgstr "Block 合约空投（暂时关闭）"
+msgstr "Block 合约空投"
 
 #: ../../token/airdrop_via_contract.rst:7
 msgid "Total amount:"
