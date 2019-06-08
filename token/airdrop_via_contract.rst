@@ -1,43 +1,40 @@
 .. _airdrop_via_contract:
 
-Block Airdrop via contract (Closed)
+Block 合约空投
 ===================================
 
-Total amount:
-   50 Million Blocks
+总量：
+   5000 万 Blocks
 
-Per quantity:
-   100-200 Blocks (randomly)
+每份数量：
+   100-200 Blocks （随机）
 
-Users covered expected:
-   About 300,000 users.
+预期用户覆盖：
+   大约 30 万用户
 
-Significance:
-   Promote visibility and consensus in the process of gradual maturity of the Block Network.
+意义：
+   在 Block Network 网络效应逐渐成熟的过程中，促进知名度和共识。
 
-Looking forward to:
-   Share, spread and popularize the Block Network concept, and to let more people know.
+期待：
+   分享、传播、普及 Block Network 理念，让更多人认识区块网络。
 
+
+.. NOTE
+   我们检测到有组织的大量利用空投合约低成本获取 Block 的行为。
+   因此，我们决定暂时中止合约空投，以避免大量的低成本 block 流入市场甚至破坏生态。
 
 .. NOTE::
-
-   We detected organized bulk use of airdrop contracts to receive blocks at low cost.
-
-   Therefore,
-   we decided to temporarily suspend the airdrop contract
-   to avoid a large number of low-cost blocks
-   entering the market and destroying the ecology.
-
-.. remark
    Contract
    --------
    .. image:: /_static/contract/qrcode_airdrop.png
       :width: 35 %
       :alt: qrcode_airdrop.png
+
    **0x4B14F1aaa878cCF70d58AEC682592dcD0Fe025BA**
-   Just send **0 ETH** to :ref:`airdrop_contract` address above,
+   Just send **0 ETH** to  address above,
    you will receive **100-200 Blocks** randomly.
    The total amount is 50,000,000,
    first come first served.
    .. NOTE::
-      Set ``gas limit`` to ``90,000``, the rest will be returned automatically.
+   Set ``gas limit`` to ``90,000``, the rest will be returned automatically.
+

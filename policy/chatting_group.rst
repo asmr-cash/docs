@@ -1,31 +1,31 @@
 .. _rules-in-chatting-group:
 
-Chatting group
-==============
+讨论组中的聊天交流
+====================
 
-Rules in chatting group
+讨论组规则
 -----------------------
 
-1. No political topics
-2. No pornography, drugs, gambling topics
-3. Pay more attention to technology, applications, services, and value
-4. No personal attacks
-5. Thinking and experience sharing are welcome
+1. 禁止任何政治话题
+2. 禁止色情、毒品或赌博类话题
+3. 关注科技、应用、服务和价值
+4. 禁止人身攻击
+5. 欢迎分享思考和经验
 6. ...
 
 
 
-Text for BOT
-------------
+群组 BOT 机器人相关文本
+-----------------------
 
-For ``Group Butler``
+使用 ``Group Butler``
 
 
 
-Welcome text
+入群欢迎词
 ____________
 
-English:
+英文版：
 
 .. code-block:: text
 
@@ -43,7 +43,7 @@ English:
 
 
 
-Simplified Chinese:
+简体中文版：
 
 .. code-block:: text
 

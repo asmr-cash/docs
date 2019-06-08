@@ -1,5 +1,5 @@
-Welcome to block.network.dao!
-=============================
+欢迎来到 block.network.dao 自治区块网络！
+===================================================
 
 .. image:: /_static/logo12.svg
    :width: 100 %
@@ -8,26 +8,20 @@ Welcome to block.network.dao!
    
 =============================
 
-The Block Network is a set of infrastructure for building a decentralized Internet.
-It is a distributed extensible virtual network,
-based on the physical network layer and the ISP network layer.
+Block Network 区块网络是构建去中心化互联网的一系列基础设施。是在物理网络层、ISP 网络层之上构建的分布式智能虚拟网络。
 
-Block Network uses blockchain technology, distributed networks and asymmetric encryption,
-provides distributed services such as Proxy/VPN,
-multi-layer anonymous network, IM, DNS, even CDN and DDoS defense, etc.
+Block Network 区块网络使用区块链、分布式网络和非对称加密等技术，提供一系列分布式服务，如 VPN 代理服务、多层匿名网络、 IM 
+即时通信、DNS 解析，甚至是 CDN 内容加速分发和 DDoS 防御等。
 
-The block with stable value scale will be used in
-the entire ecology and produce an incentive effect.
-Everyone can participate in distributed network construction.
-We believe the Block Network will make the future Internet
-more open, more equal, more stable, more efficient, safer and freer.
+使用价值尺度稳定的 Block
+作为生态“货币”激励，是由全球无限节点参与构建的、具有成长性的分布式互联网基础设施，使互联网更开放、更平等、更稳定、更高效、更安全、更自由。
 
 
 .. _news:
 
 .. toctree::
    :maxdepth: 1
-   :caption: News
+   :caption: 最新消息
 
    news/block_contract_upgraded.rst
 
@@ -36,7 +30,7 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Block
+   :caption: Block 令牌
 
    token/airdrop_via_contract
 
@@ -56,7 +50,7 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Guides
+   :caption: 使用与操作指导
 
    guide/imtoken
    guide/metamask
@@ -71,7 +65,7 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. toctree::
    :maxdepth: 1
-   :caption: References and views
+   :caption: 推荐阅读与观点集
 
    views/block_pricing
 
@@ -80,7 +74,7 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contracts on Ethereum
+   :caption: 以太坊智能合约
 
    contracts/block
 
@@ -91,7 +85,7 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contribute
+   :caption: 共建
 
    contributing/contribute
 
@@ -100,13 +94,13 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Policy
+   :caption: 政策
 
    policy/chatting_group
 
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contact us
+   :caption: 联系我们
 
    contact_us

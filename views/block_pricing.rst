@@ -1,68 +1,59 @@
 .. _block_pricing:
 
-Block's pricing logic and early opportunities
+Block 的价格逻辑和早期机会
 =============================================
 
-Just think about one question:
+考虑一个问题：
 
-| IF YOU HAVE A CHANCE, THAT
-| **YOU CAN PAY $1 FOR A $100 REAL CASH**,
-| FIRST COME FIRST SERVED,
-| **HOW MUCH DO YOU WANT TO BUY**?
+| 如果您有一个机会，
+| **您可以只花费 $1 美金购买 $100 美元真实现钞** ，
+| 先到先得，
+| **你会购买多少** ？
 
 
-The first crypto-currency with clear usage value
+第一个有明确使用价值的加密货币
 ------------------------------------------------
 
-The vast majority of blockchain networks are just a set of accounting systems.
-Those crypto-currencies do not rely on any anchoring or credit to issue,
-and their price support comes from the holder's beliefs.
+绝大多数区块链网络都只是一套记账系统。那些加密货币不依赖于任何锚定或信用发行，它们的价格支持来自持有者的信念。
 
-But Block is quite different.
+但是 Block 却相当不同。
 
 
-What is Block?
-______________
+什么是 Block ？
+__________________
 
-**Block** is the unique token in the Block Network ecosystem,
-which uses Proof of Traffic consensus mechanism.
-It is the native asset on the vnCHAIN.
+**Block** 使用 PoT 流量证明，是 Block Network 生态系统中的唯一 token 。它是 vnCHAIN "
+区块链上的原生资产，可称之为“令牌”。
 
 
-1 Block = daoB client traffic flow
+1 Block = daoB 客户端流量
 ___________________________________
 
-**Block** is the first crypto-currency with clear usage value.
+**Block** 是第一个具有明确使用价值的加密货币。
 
-In the underlying code, 1 Block was defined as the client traffic of daoBytes,
-that is: **1 Block = daoB client traffic flow**.
-
+在底层代码中， 1 单位 Block 被定为 daoBytes 的客户端流量，即 **1 Block = 100 GB 客户端流量** 。
 
 
-How much does daoB traffic cost?
+daoB 流量值多少钱？
 ---------------------------------
 
-Including the traffic,
-the price of all types of network resources can be clearly checked
-by major IDC service providers,
-which are clearly priced.
+包括流量在内，所有类型的资源价格在主流 IDC 服务商都可以清晰查看，他们是明确标价的。
 
 
 
-The price of resource in an IDC
+IDC 的服务资源价格
 _______________________________
 
-For daoB network traffic, there is a price reference for mature IDC,
-with Amazon Web Services AWS, for example, priced at about **$8.50** per daoB traffic
-and Google Cloud Platform GCP at about **$8.0**.
+daoB 的网络流量，有成熟 IDC 的价格可参照，以亚马逊云 AWS 为例，每 daoB 流量定价约为 **$8.50 美元** 左右，而谷歌云 
+GCP 则为 **$8.0 美元** 左右。
 
-Accelerating traffic is more expensive, while ordinary traffic is cheaper.
+加速流量较贵，而普通流量更便宜。
 
-AWS Amazon Web Services:
+AWS 亚马逊云服务：
    - `AWS Direct Connect pricing`_
    - `AWS CloudFront Pricing`_
 
-GCP Google Cloud Platform:
+GCP 谷歌云服务：
    - `GCP Interconnect Pricing`_
    - `GCP CDN Pricing`_
 
@@ -73,42 +64,35 @@ GCP Google Cloud Platform:
 
 
 
-Block price during the Public-Sale: $0.001 - $0.601
+Block 公开销售的价格： $0.001 - $0.601
 ---------------------------------------------------
 
-Starting at **1 Block = $0.001**, until the price reaches **$0.601**.
+初始价格 **1 Block = $0.001 美元**，上涨至 **$0.601** 时截止。
 
 
 
-3 basic principles of the Block Network
+Block Network 区块网络的 3 个基础原则
 ----------------------------------------
 
-There are 3 basic principles in the Block Network ecosystem:
+Block Network 区块网络生态系统的 3 个基础原则
 
-#. Freedom, equality, openness, sharing, is the basic gene of the Internet,
-   communication security and privacy protection are the basic rights of users.
-#. Service generates real value.
-#. | The user pays, and the service provider charges,
-   | **IT IS THE NATURAL TRADING SCENARIO**.
+#. 自由、平等、开放、共享是互联网的基础基因，通信安全和隐私保护是用户的基本权力。
+#. 服务产生价值。
+#. | 使用者付费，服务者收费，
+   | **这是天然的交易场景** 。
 
-They are the foundation of the project,
-the law of value that is non-human resistant,
-also our belief:
-If these three principles are established,
-the value of the entire project will be established, for sure, no doubt it.
+他们是项目的基础，是非人力可以左右的价值规律，也是我们的信念：如果这 3 条基础原则成立，那么整个项目的价值成立，这是必然，没有任何疑问。
 
 
 
-Most Block will be handed over to users
+绝大多数的 Block 将交由用户持有
 ---------------------------------------
 
-This is a large ecosystem built by all participants.
-The more service nodes and more users, the stronger the network will be.
+这是一个所有参与者共建的大生态系统。越多的服务节点和用户，网络就越健壮。
 
-Incremental sales prices will promote the market price of the entire system,
-about **595.13 million USD** (50-100% of all the sales revenue)
-will be owned by the community promoters.
+递增的发售价格将促进整个系统的市值表现，有大约 **5.95 亿美元** （总销售收入的 50-100%"
+" ）将被归属于社区推动者。
 
-See:
+见：
 
-Join us, join the revolution.
+加入我们，加入变革。

@@ -1,35 +1,35 @@
 .. _block_contract:
 
-Block Main Contract
+Block 主合约
 ===================
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
-- ENS Domain is **blockdao.eth**
-- Contract address is **0x82070415FEe803f94Ce5617Be1878503e58F0a6a**
-- Deployed at `Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...`_
-- Block height `7635415`_
-- Open-sourced under the `GNU General Public License v3.0`_
-- `View contract code on github repository`_
+- ENS 域名 **blockdao.eth**
+- 合约地址 **0x82070415FEe803f94Ce5617Be1878503e58F0a6a**
+- 部署于 `Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...`_
+- 区块高度 `7635415`_
+- 已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源
+- `查看合约代码在 github 仓库`_
 
-View on Etherscan.io:
+在 Etherscan.io 查看：
 
-- `Block Tracker`_
-- `Read contract on Etherscan.io`_
-- `Write contract on Etherscan.io`_
+- `Block 跟踪`_
+- `通过 Etherscan.io 读取合约信息`_
+- `通过 Etherscan.io 操作合约`_
 
-Related links:
+相关链接：
 
 - :ref:`block_contract_upgraded`
 
 
 .. _Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...: https://etherscan.io/tx/0x9f173f8fc13a8efef7cb25b160c09958be03587b9b1af910bf8a9b3a48d68dc9
 .. _7635415: https://etherscan.io/tx/0x9f173f8fc13a8efef7cb25b160c09958be03587b9b1af910bf8a9b3a48d68dc9
-.. _GNU General Public License v3.0: https://github.com/blockdao/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/blockdao/contracts/blob/master/Block.sol
-.. _Block Tracker: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a
-.. _Read contract on Etherscan.io: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#readContract
-.. _Write contract on Etherscan.io: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#writeContract
+.. _GNU 通用公区许可证 v3.0: https://github.com/blockdao/contracts/blob/master/LICENSE
+.. _查看合约代码在 github 仓库: https://github.com/blockdao/contracts/blob/master/Block.sol
+.. _Block 跟踪: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a
+.. _通过 Etherscan.io 读取合约信息: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#readContract
+.. _通过 Etherscan.io 操作合约: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#writeContract
 
 
 .. |logo_github| image:: /_static/logos/github.svg
@@ -46,14 +46,14 @@ Related links:
 
 
 
-Understand Block Contract
+读懂 Block 合约
 -------------------------
 
-If you want to learn more about block contracts, this can help you.
+如果您想深入了解 Block 合约，这将帮助到您。
 
 
-Meta
-____
+元信息
+__________
 
 .. code-block:: text
 
@@ -65,20 +65,20 @@ ____
    uint256 private _cap = 35000000000000000;   // 35 billion
    uint256 private _totalSupply;
 
-Full Name
+全名
    Block.Network dao Token
 
-Symbol
+字母简称
    Block
 
-Decimals
+小数位数
    6
 
-Capped TotalSupply
-   35 billion
+封顶的总供应量
+   350 亿
 
 
-Block-Sale Whitelist Registration trigger
+Block 销售白名单注册触发
 _________________________________________
 
 .. code-block:: text
@@ -99,15 +99,14 @@ _________________________________________
    }
 
 
-- ``_allowWhitelistRegistration`` is ``true``, when registration is allowed.
-- ``value`` = ``_whitelistRegistrationValue``, that is 1,001 Blocks.
-- ``inWhitelist(to)``, receiver address is in whitelist.
-- ``!inWhitelist(msg.sender)``, sender address is not in whitelist.
-- ``isNotContract(msg.sender)``, sender address is not a contract,
-  to avoid any "Coincidental accident" transfer from a contract,
-  such as "any type of batch transfer", "from an exchange" or any other contracts.
+- ``_allowWhitelistRegistration`` 是 ``true``，即主合约处在可注册的状态。
+- ``value`` = ``_whitelistRegistrationValue`` ，即转账数量是 1,001 Blocks 。
+- ``inWhitelist(to)`` ，接收地址已经在白名单中。
+- ``!inWhitelist(msg.sender)`` ，发送地址不在白名单中。
+- ``isNotContract(msg.sender)`` 
+  ，发送地址不是合约，以避免任何来自合约转账的“巧合的意外”，包括“任何形式的批量转账”、“来自交易所的发送” 或其它任何形式的合约。
 
-Transfers other than those under this special conditions are considered **NORMAL TRANSFERS**.
+除在此特殊条件下的转账，都被视为 **普通转账** 。
 
 
 Block-Sale Whitelist Registration and Referral Reward
@@ -165,16 +164,16 @@ _____________________________________________________
        }
    }
 
-Transfer 1,001 Blocks to a whitelisted address
-   Will trigger Block-Sale whitelist registration.
+转账 1,001 Blocks 到白名单中的地址
+   将触发 Block 销售白名单注册。
 
-100% of the 1,001 Blocks will be rewarded
-   Up to 15 levels: 301 + 200 + 100 + ...
+1,001 Blocks 的 100% 将用于发放奖励
+   最多 15 级：301 + 200 + 100 + ...
 
 
 .. _check_address_in_whitelist:
 
-Check whether a ETH wallet address is whitelisted
+查看一个 ETH 钱包地址是否在白名单中
 _________________________________________________
 
 .. code-block:: text
@@ -185,12 +184,11 @@ _________________________________________________
        return _referrer[account] != address(0);
    }
 
-Check whether a ETH wallet address is whitelisted
-   Call function ``inWhitelist(address account)``,
-   if the given address was whitelisted, it will returns ``true``.
+查看一个 ETH 钱包地址是否在白名单中
+   执行合约中的功能函数 ``inWhitelist(address account)`` ，如果给定的地址已在白名单中，则返回 ``true`` 。
 
 
-Check whether the Block-Sale whitelist registration is in process
+查看 Block 销售白名单注册是否还在进行中
 _________________________________________________________________
 
 .. code-block:: text
@@ -210,15 +208,13 @@ _________________________________________________________________
        emit BlockSaleWhitelistRegistrationDisabled();
    }
 
-   Call function ``allowWhitelistRegistration()``,
-   if it returns ``true``, registration is allowed.
+   执行合约中的功能函数 ``allowWhitelistRegistration()`` ，如果返回 ``true`` 说明注册是被允许的。
 
-   Whenever it returns ``false``,
-   that means registration was disabled, and it's unrecoverable.
+   一旦返回 ``false`` 就意味着白名单注册已经关闭，并且不可逆。
 
 .. _whitelist_transfer_whitelist_qualification:
 
-Whitelist qualification transfer is supported
+白名单资格支持过户
 _____________________________________________
 
 .. code-block:: text
@@ -234,6 +230,6 @@ _____________________________________________
        emit BlockSaleWhitelistTransferred(msg.sender, account);
    }
 
-Whitelist qualification transfer is supported
-   Just call function ``transferWhitelist(address account)`` if you need.
+白名单资格支持过户
+   只需执行合约中的功能函数 ``transferWhitelist(address account)`` ，如果你需要。
 

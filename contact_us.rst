@@ -1,16 +1,16 @@
 .. _contact_us:
 
-Contact us
+联系我们
 ==========
 
 
 |logo_earth|
 
-Official Website
+官方网站
 ----------------
 
 - https://block.network/
-- https://block.network/zh-cn (Simplified Chinese)
+- https://block.network/zh-cn （简体中文）
 
 
 |logo_github|
@@ -22,8 +22,8 @@ https://github.com/blockdao
 
 |logo_twitter|
 
-Twitter
--------
+Twitter 推特
+------------
 
 https://twitter.com/blockdao
 
@@ -33,24 +33,24 @@ https://twitter.com/blockdao
 
 .. _block_telegram:
 
-Telegram
---------
+Telegram 电报
+-------------
 
-Group
+群组
    - https://t.me/blockdao
-   - https://t.me/blockCN (Chinese Group)
+   - https://t.me/blockCN （中文组）
 
-News Channel
+消息频道
    - https://t.me/blockNews
 
 
 |logo_doc|
 
-Documents
+文档
 ---------
 
 - https://block.io/
-- https://block.io/zh_CN/latest/ (Simplified Chinese)
+- https://block.io/zh_CN/latest/ （简体中文）
 
 
 .. |logo_earth| image:: /_static/logos/earth.svg
