@@ -1,4 +1,4 @@
-欢迎来到 block.network.dao 自治区块网络！
+欢迎来到 block.network.dao 区块自治网络！
 ===================================================
 
 .. image:: /_static/logo12.svg
@@ -8,13 +8,12 @@
    
 =============================
 
-Block Network 区块网络是构建去中心化互联网的一系列基础设施。是在物理网络层、ISP 网络层之上构建的分布式智能虚拟网络。
+Block Network 是第一个去中心化的区块自治网络，合约的不可篡改，全由社区自主控制。首个以社区利益为核心的发行机制。每个步骤，均围绕社区利益而设计，确保项目在每个阶段产生的利益可以回馈到社区。
 
-Block Network 区块网络使用区块链、分布式网络和非对称加密等技术，提供一系列分布式服务，如 VPN 代理服务、多层匿名网络、 IM 
-即时通信、DNS 解析，甚至是 CDN 内容加速分发和 DDoS 防御等。
+Block Network 区块网络使用区块链、分布式网络和非对称加密等技术，提供一系列社区服务，如 挖矿，自治bancor市场交易，社区投票等。
 
 使用价值尺度稳定的 Block
-作为生态“货币”激励，是由全球无限节点参与构建的、具有成长性的分布式互联网基础设施，使互联网更开放、更平等、更稳定、更高效、更安全、更自由。
+作为生态“货币”激励，全部由社区空投和挖矿产出，无项目方，无预挖，无募资，确保每一枚都源自于社区并用于社区，每一枚Block都将对生态的发展产生重要的作用，是区块网络自治发展的基石，依托Block，让整个社区更加壮大，同时也将让Block变的更有价值。
 
 
 .. _news:
@@ -33,18 +32,7 @@ Block Network 区块网络使用区块链、分布式网络和非对称加密等
    :caption: Block 令牌
 
    token/airdrop_via_contract
-
-.. _available-services:
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Available services
-
-   services/autossr
-   guide/shadowrocket
-   guide/ssrr
-   guide/shadowsocksr_win
-   guide/shadowsocksr_mac
+   token/airdrop_via_contract_vip
 
 .. _guide:
 
@@ -54,21 +42,8 @@ Block Network 区块网络使用区块链、分布式网络和非对称加密等
 
    guide/imtoken
    guide/metamask
-   guide/shadowrocket
-   guide/ssrr
-   guide/shadowsocksr_win
-   guide/shadowsocksr_mac
    guide/eth_wallet
    guide/gas
-
-.. _references:
-
-.. toctree::
-   :maxdepth: 1
-   :caption: 推荐阅读与观点集
-
-   views/block_pricing
-
 
 .. _contracts:
 
