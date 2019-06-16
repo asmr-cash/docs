@@ -22,6 +22,7 @@ Block Network 区块网络使用区块链、分布式网络和非对称加密等
    :maxdepth: 1
    :caption: 最新消息
 
+   news/qunzhu_contract_upgraded.rst
    news/block_contract_upgraded.rst
 
 
@@ -52,6 +53,8 @@ Block Network 区块网络使用区块链、分布式网络和非对称加密等
    :caption: 以太坊智能合约
 
    contracts/block
+   contracts/qunzhu_contract
+   
 
 ------
 
@@ -60,8 +63,9 @@ Block Network 区块网络使用区块链、分布式网络和非对称加密等
 
 .. toctree::
    :maxdepth: 1
-   :caption: 共建
+   :caption: 推广共建
 
+   contributing/contribute_referer
    contributing/contribute
 
 

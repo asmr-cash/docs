@@ -1,6 +1,6 @@
-.. _block_contract_upgraded:
+.. _block_contract:
 
-Block主合约-发布信息
+Block 群主奖励计划合约
 ============================
 
 一、部署信息
@@ -8,19 +8,19 @@ Block主合约-发布信息
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
-- 合约地址 **0x1123D8bE690d431D907dbFAa484b2A69ABF74004**
-- 部署于 `Tx Hash 0xe679af34a345836346f14c5d...`_
-- 区块高度 `7957393`_
+- 合约地址 **0x00cb3ad48E330c532F3e0C496831692DE1Ed327c**
+- 部署于 `Tx Hash 0xdf4ecea9831aeaf55ab112fe...`_
+- 区块高度 `7957461`_
 
 在 Etherscan.io 查看：
 
 - `Block 跟踪`_
 - `通过 Etherscan.io 读取合约信息`_
 
-.. _Tx Hash 0xe679af34a345836346f14c5d...: https://etherscan.io/tx/0xe679af34a345836346f14c5d6978af712037e00e8e79ffc9e1eab8483393f873
-.. _7916940: https://etherscan.io/tx/0xe679af34a345836346f14c5d6978af712037e00e8e79ffc9e1eab8483393f873
-.. _Block 跟踪: https://etherscan.io/address/0x1123d8be690d431d907dbfaa484b2a69abf74004
-.. _通过 Etherscan.io 读取合约信息: https://etherscan.io/token/0x1123d8be690d431d907dbfaa484b2a69abf74004
+.. _Tx Hash 0xdf4ecea9831aeaf55ab112fe...: https://etherscan.io/tx/0xdf4ecea9831aeaf55ab112feecfcb487cb729b37f61afb06c2078613e19cc34e
+.. _7957461: https://etherscan.io/tx/0xdf4ecea9831aeaf55ab112feecfcb487cb729b37f61afb06c2078613e19cc34e
+.. _Block 跟踪: https://etherscan.io/address/0x00cb3ad48e330c532f3e0c496831692de1ed327c
+.. _通过 Etherscan.io 读取合约信息: https://etherscan.io/token/0x00cb3ad48e330c532f3e0c496831692de1ed327c
 
 .. |logo_github| image:: /_static/logos/github.svg
    :width: 36px
@@ -37,10 +37,11 @@ Block主合约-发布信息
 
 二、简要信息
 ------------------------------------
-- 符号 **Block**
-- 名称 **Block.Network.DAO**
-- 初始总量 **0**
+- 符号 **群主奖励计划.Block**
+- 名称 **群主奖励计划.Block**
+- 初始总量 **0 全部由群主挖出**
 - 位数 **18**
+- 用途 **用于群主奖励计划的自动执行，并统计全部奖励给群主的Block数量**
 
 
 三、正在进行的活动
@@ -50,7 +51,6 @@ Block主合约-发布信息
     :ref:`airdrop_via_contract`  
     
     :ref:`airdrop_via_contract_vip`
-
 
 四、正在进行的推广活动
 ---------------------------------------------

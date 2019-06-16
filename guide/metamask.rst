@@ -86,7 +86,7 @@ Show Block balance of your wallet
 ---------------------------------
 
 Copy the address of :ref:`block_contract`,
-it is ``0x9572e78061af04b79116557c4e19b9253c965e8a``,
+it is ``0x1123D8bE690d431D907dbFAa484b2A69ABF74004``,
 and use ``Add Token``.
 
 Interact with Ethereum Contract

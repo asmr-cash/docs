@@ -25,6 +25,16 @@ https://github.com/block-network
 
 - https://blocknetwork.readthedocs.io
 
+添加客服
+----------------
+
+扫码或手动添加客服微信：**vekday**
+
+
+.. image:: /_static/wei.png
+   :width: 35 %
+   :alt: qrcode_voken_sale.png
+
 .. |logo_earth| image:: /_static/logos/earth.svg
    :width: 36px
    :height: 36px

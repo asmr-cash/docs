@@ -150,9 +150,9 @@ msgstr "让你的钱包显示 Block 余额"
 #: ../../guide/metamask.rst:88
 msgid ""
 "Copy the address of :ref:`block_contract`, it is "
-"``0x9572e78061af04b79116557c4e19b9253c965e8a``, and use ``Add Token``."
+"``0x1123D8bE690d431D907dbFAa484b2A69ABF74004``, and use ``Add Token``."
 msgstr ""
-"复制 :ref:`block_contract` 地址 ``0x9572e78061af04b79116557c4e19b9253c965e8a`` "
+"复制 :ref:`block_contract` 地址 ``0x1123D8bE690d431D907dbFAa484b2A69ABF74004`` "
 "，并使用 ``Add Token`` 功能。"
 
 #: ../../guide/metamask.rst:99
