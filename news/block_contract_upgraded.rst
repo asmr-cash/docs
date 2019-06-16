@@ -1,4 +1,4 @@
-.. _block_contract_upgraded:
+.. _block_contract_upgraded1:
 
 Block主合约-发布信息
 ============================
