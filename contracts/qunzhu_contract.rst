@@ -1,4 +1,4 @@
-.. _block_contract:
+.. _qunzhu_block_contract:
 
 Block 群主奖励计划合约
 ============================

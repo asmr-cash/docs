@@ -1,4 +1,4 @@
-.. _block_contract_upgraded:
+.. _qunzhu_block_contract_upgraded:
 
 群主奖励计划合约-发布信息
 ============================
