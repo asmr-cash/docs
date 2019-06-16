@@ -64,7 +64,7 @@ Block 合约空投-绿色通道
 
 |
 代币合约信息：
-   请查看： :ref:`block_contract_upgraded`
+   请查看 :ref:`block_contract_upgraded`
 
 
 正在进行的推广活动
