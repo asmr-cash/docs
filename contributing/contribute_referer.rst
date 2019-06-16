@@ -45,6 +45,6 @@ ____________
 并备注：群主奖励计划
 
 
-.. image:: /_static/wei.png
+.. image:: ../_static/wei.png
    :width: 35 %
    :alt: qrcode_voken_sale.png

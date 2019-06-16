@@ -18,7 +18,7 @@ Block主合约-发布信息
 - `通过 Etherscan.io 读取合约信息`_
 
 .. _Tx Hash 0xe679af34a345836346f14c5d...: https://etherscan.io/tx/0xe679af34a345836346f14c5d6978af712037e00e8e79ffc9e1eab8483393f873
-.. _7916940: https://etherscan.io/tx/0xe679af34a345836346f14c5d6978af712037e00e8e79ffc9e1eab8483393f873
+.. _7957393: https://etherscan.io/tx/0xe679af34a345836346f14c5d6978af712037e00e8e79ffc9e1eab8483393f873
 .. _Block 跟踪: https://etherscan.io/address/0x1123d8be690d431d907dbfaa484b2a69abf74004
 .. _通过 Etherscan.io 读取合约信息: https://etherscan.io/token/0x1123d8be690d431d907dbfaa484b2a69abf74004
 
@@ -58,4 +58,4 @@ Block主合约-发布信息
 **推广正在进心中**: 
     :ref:`contribute_referer`  
     
-    :ref:`contribute`
+    :ref:`contribute1`

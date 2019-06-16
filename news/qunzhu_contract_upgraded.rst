@@ -58,4 +58,4 @@
 **推广正在进心中**: 
     :ref:`contribute_referer`  
     
-    :ref:`contribute`
+    :ref:`contribute1`
