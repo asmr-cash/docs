@@ -32,10 +32,10 @@ ____________
    *方法： imtoken添加合约地址：0x1123D8bE690d431D907dbFAa484b2A69ABF74004,
     转0个Block到地址：【此处替换为你的推荐地址】，即可获得空投代币
     gas limit 请设置：160000，剩余的自动返还
-   👉 [点击这里领取](https://blocknetwork.readthedocs.io/zh_CN/latest/token/airdrop_via_contract.html)
+   👉 [点击这里领取]https://blocknetwork.readthedocs.io/zh_CN/latest/token/airdrop_via_contract.html
 
    更多信息：
-   1. [Block 官网](https://blockdao.network)
+   1. [Block 官网]https://blockdao.network
 
 
 添加客服
