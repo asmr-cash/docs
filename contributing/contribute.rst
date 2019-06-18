@@ -49,9 +49,12 @@
 ----------------
 
 扫码或手动添加客服微信：**vekday**
-并备注：群主奖励计划
+并备注：群主计划
 
+.. image:: ../_static/wei2.jpg
+   :width: 35 %
+   :alt: wei2.jpg
 
 .. image:: ../_static/wei.png
-   :width: 35 %
-   :alt: qrcode_voken_sale.png
+   :width: 31 %
+   :alt: wei.png
