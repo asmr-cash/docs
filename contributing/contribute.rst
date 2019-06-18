@@ -48,13 +48,18 @@
 添加客服
 ----------------
 
-扫码或手动添加客服微信：**vekday**
+扫码添加客服微信
 并备注：群主计划
 
-.. image:: ../_static/wei2.jpg
+.. image:: ../_static/wei3.png
    :width: 35 %
-   :alt: wei2.jpg
+   :alt: wei3.png
 
-.. image:: ../_static/wei.png
-   :width: 31 %
-   :alt: wei.png
+.. .. image:: ../_static/wei2.jpg
+..    :width: 35 %
+..    :alt: wei2.jpg
+
+.. .. image:: ../_static/wei.png
+..    :width: 31 %
+..    :alt: wei.png
+
