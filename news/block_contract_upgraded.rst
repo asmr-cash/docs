@@ -8,7 +8,7 @@ Block主合约-发布信息
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
-- 合约地址 **0x1123D8bE690d431D907dbFAa484b2A69ABF74004**
+- 合约地址 **0x773301B28178f5669f928bd561f3486CB8711ca0**
 - 部署于 `Tx Hash 0xe679af34a345836346f14c5d...`_
 - 区块高度 `7957393`_
 
@@ -19,8 +19,8 @@ Block主合约-发布信息
 
 .. _Tx Hash 0xe679af34a345836346f14c5d...: https://etherscan.io/tx/0xe679af34a345836346f14c5d6978af712037e00e8e79ffc9e1eab8483393f873
 .. _7957393: https://etherscan.io/tx/0xe679af34a345836346f14c5d6978af712037e00e8e79ffc9e1eab8483393f873
-.. _Block 跟踪: https://etherscan.io/address/0x1123d8be690d431d907dbfaa484b2a69abf74004
-.. _通过 Etherscan.io 读取合约信息: https://etherscan.io/token/0x1123d8be690d431d907dbfaa484b2a69abf74004
+.. _Block 跟踪: https://etherscan.io/address/0x773301B28178f5669f928bd561f3486CB8711ca0
+.. _通过 Etherscan.io 读取合约信息: https://etherscan.io/token/0x773301B28178f5669f928bd561f3486CB8711ca0
 
 .. |logo_github| image:: /_static/logos/github.svg
    :width: 36px
