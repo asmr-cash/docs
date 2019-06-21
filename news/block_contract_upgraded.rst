@@ -17,8 +17,8 @@ Block主合约-发布信息
 - `Block 跟踪`_
 - `通过 Etherscan.io 读取合约信息`_
 
-.. _Tx Hash 0xe679af34a345836346f14c5d...: https://etherscan.io/tx/0xe679af34a345836346f14c5d6978af712037e00e8e79ffc9e1eab8483393f873
-.. _7957393: https://etherscan.io/tx/0xe679af34a345836346f14c5d6978af712037e00e8e79ffc9e1eab8483393f873
+.. _Tx Hash 0xe679af34a345836346f14c5d...: https://etherscan.io/tx/0x05920da7b2342c5dd5348dc60f6ce06519fdcae2ac462b61f7e3a33205161b3d
+.. _7957393: https://etherscan.io/tx/0x05920da7b2342c5dd5348dc60f6ce06519fdcae2ac462b61f7e3a33205161b3d
 .. _Block 跟踪: https://etherscan.io/address/0x773301B28178f5669f928bd561f3486CB8711ca0
 .. _通过 Etherscan.io 读取合约信息: https://etherscan.io/token/0x773301B28178f5669f928bd561f3486CB8711ca0
 
