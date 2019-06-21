@@ -22,6 +22,7 @@ Block Network 区块网络使用区块链、分布式网络和非对称加密等
    :maxdepth: 1
    :caption: 最新消息
 
+   news/block_contract_update_01.rst
    news/qunzhu_contract_upgraded.rst
    news/block_contract_upgraded.rst
 
